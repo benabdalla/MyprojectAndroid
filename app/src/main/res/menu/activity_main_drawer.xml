@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorPrimary"
+    tools:showIn="navigation_view"
+    >
+    <group android:checkableBehavior="single"
+        >
+        <item
+            android:background="@color/colorPrimary"
+            android:id="@+id/nav_home"
+
+       android:icon="@drawable/ic_home_black_24dp"
+            android:title="@string/menu_home" />
+        <item
+            android:background="@color/colorPrimary"
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_chrome_reader_mode_red_24dp"
+            android:title="@string/menu_gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="@string/menu_slideshow" />
+        <item
+            android:id="@+id/nav_tools"
+            android:icon="@drawable/ic_star_border_black_24dp"
+            android:title="@string/menu_tools" />
+    </group>
+
+    <item android:title="@string/aide">
+        <menu
+            android:background="@color/colorPrimary"
+            >
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_my_location_black_24dp"
+                android:title="@string/menu_share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_live_help_black_24dp"
+                android:title="@string/menu_send" />
+        </menu>
+    </item>
+
+</menu>

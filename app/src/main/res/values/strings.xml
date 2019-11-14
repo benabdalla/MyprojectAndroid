@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Myproject</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="admin">Admin</string>
+    <string name="cat1">SPORT</string>
+    <string name="menu_home">Menu</string>
+    <string name="menu_gallery">Cours</string>
+    <string name="menu_slideshow">exman</string>
+    <string name="menu_tools">meilleur résultat</string>
+    <string name="aide">Aider</string>
+    <string name="menu_share">Localisation</string>
+    <string name="menu_send">info !</string>
+</resources>
