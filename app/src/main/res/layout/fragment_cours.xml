@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/text_gallery"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="les cours"
+        android:textStyle="bold"
+        android:src="@mipmap/ic_launcher"
+        android:textAlignment="center"
+        android:textSize="40sp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+            <ImageButton
+                android:id="@+id/button1"
+                android:layout_width="117dp"
+                android:layout_height="110dp"
+                android:src="@mipmap/ic_launcher"/>
+
+            <ImageButton
+                android:id="@+id/button2"
+                android:layout_width="120dp"
+                android:layout_height="115dp"
+                android:text="géographique"
+                android:src="@mipmap/ic_launcher"/>
+
+            <ImageButton
+                android:id="@+id/button3"
+                android:layout_width="117dp"
+                android:layout_height="110dp"
+                android:text="Histoire"
+                android:src="@mipmap/ic_launcher"/>
+
+            <ImageButton
+                android:id="@+id/button4"
+                android:layout_width="117dp"
+                android:layout_height="112dp"
+                android:text="culture"
+                android:src="@mipmap/ic_launcher"/>
+    </LinearLayout>
+</LinearLayout>
