@@ -15,11 +15,11 @@
     <string name="menu_share">Localisation</string>
     <string name="menu_send">info !</string>
     <string name="information">information</string>
-    <string name="text"> Cette application découvrez  les information essentielles pour les concoure nationnale</string>
+    <string name="text"> Cette application découvrez les information essentielles pour les concoure nationnale</string>
     <string name="connect">connecté</string>
     <string name="sport">sport</string>
     <string name="history">Histoire</string>
     <string name="Geographically">Géographique</string>
     <string name="culture">culture</string>
-    <string name="appeller">Appeller</string>
+
 </resources>
