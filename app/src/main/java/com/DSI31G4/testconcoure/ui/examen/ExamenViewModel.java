@@ -10,7 +10,7 @@ public class ExamenViewModel extends ViewModel {
 
     public ExamenViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("choix de votre test");
+
     }
 
     public LiveData<String> getText() {

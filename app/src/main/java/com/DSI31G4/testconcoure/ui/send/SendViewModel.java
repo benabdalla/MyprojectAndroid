@@ -10,7 +10,7 @@ public class SendViewModel extends ViewModel {
 
     public SendViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("info sur utilisation  l'application");
+
     }
 
     public LiveData<String> getText() {

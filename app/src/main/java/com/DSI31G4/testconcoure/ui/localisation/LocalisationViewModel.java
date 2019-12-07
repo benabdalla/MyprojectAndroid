@@ -11,7 +11,7 @@ public class LocalisationViewModel extends ViewModel
 
     public LocalisationViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("This is share fragment");
+
     }
 
     public LiveData<String> getText() {

@@ -1,18 +1,25 @@
 <resources>
-    <string name="app_name">Myproject</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="app_name">Mon projet</string>
+    <string name="navigation_drawer_open">Ouvrir le tiroir de navigation</string>
+    <string name="navigation_drawer_close">Fermer le tiroir de navigation</string>
     <string name="nav_header_title">Android Studio</string>
     <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
+    <string name="nav_header_desc">En-tête de navigation</string>
     <string name="admin">Admin</string>
     <string name="cat1">SPORT</string>
-    <string name="menu_Acceuil">Acceuil</string>
-    <string name="menu_cours">Cours</string>
-    <string name="menu_examen">Examen</string>
-    <string name="menu_tools">Meilleur résultat</string>
-    <string name="aide">Aide</string>
-    <string name="menu_localisation">Localisation</string>
-    <string name="menu_send">Info !</string>
-    <string name="chargement_de_la_carte">Chargement de la carte&#8230;</string>
+    <string name="menu_home">Menu</string>
+    <string name="menu_gallery">Cours</string>
+    <string name="menu_slideshow">exman</string>
+    <string name="menu_tools">meilleur résultat</string>
+    <string name="aide">Aider</string>
+    <string name="menu_share">Localisation</string>
+    <string name="menu_send">info !</string>
+    <string name="information">information</string>
+    <string name="text"> Cette application découvrez  les information essentielles pour les concoure nationnale</string>
+    <string name="connect">connecté</string>
+    <string name="sport">sport</string>
+    <string name="history">Histoire</string>
+    <string name="Geographically">Géographique</string>
+    <string name="culture">culture</string>
+    <string name="appeller">Appeller</string>
 </resources>

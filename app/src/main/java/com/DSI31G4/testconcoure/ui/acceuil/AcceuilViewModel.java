@@ -10,7 +10,7 @@ public class AcceuilViewModel extends ViewModel {
 
     public AcceuilViewModel() {
         mText = new MutableLiveData<>();
-        mText.setValue("bienvennue sur test nationale");
+
     }
 
     public LiveData<String> getText() {
