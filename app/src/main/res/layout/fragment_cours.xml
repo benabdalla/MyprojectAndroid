@@ -11,7 +11,7 @@
         android:id="@+id/text_gallery"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="les cours"
+        android:text="@string/les_cours"
         android:textStyle="bold"
         android:src="@mipmap/ic_launcher"
         android:textAlignment="center"
@@ -25,29 +25,30 @@
 
             <ImageButton
                 android:id="@+id/button1"
-                android:layout_width="117dp"
-                android:layout_height="110dp"
-                android:src="@mipmap/ic_launcher"/>
+                android:layout_width="235dp"
+                android:layout_height="125dp"
+                android:text="sport"
+                android:src="@drawable/sport"/>
 
             <ImageButton
                 android:id="@+id/button2"
-                android:layout_width="120dp"
-                android:layout_height="115dp"
+                android:layout_width="235dp"
+                android:layout_height="125dp"
                 android:text="géographique"
-                android:src="@mipmap/ic_launcher"/>
+                android:src="@drawable/geog"/>
 
             <ImageButton
                 android:id="@+id/button3"
-                android:layout_width="117dp"
-                android:layout_height="110dp"
+                android:layout_width="235dp"
+                android:layout_height="125dp"
                 android:text="Histoire"
-                android:src="@mipmap/ic_launcher"/>
+                android:src="@drawable/histoir"/>
 
             <ImageButton
                 android:id="@+id/button4"
-                android:layout_width="117dp"
-                android:layout_height="112dp"
+                android:layout_width="235dp"
+                android:layout_height="125dp"
                 android:text="culture"
-                android:src="@mipmap/ic_launcher"/>
+                android:src="@drawable/culture"/>
     </LinearLayout>
 </LinearLayout>

@@ -12,6 +12,7 @@
     <string name="menu_slideshow">exman</string>
     <string name="menu_tools">meilleur résultat</string>
     <string name="aide">Aider</string>
+    <string name="chargement_de_la_carte">chargement  de la  carte</string>
     <string name="menu_share">Localisation</string>
     <string name="menu_send">info !</string>
     <string name="information">information</string>
@@ -22,4 +23,10 @@
     <string name="Geographically">Géographique</string>
     <string name="culture">culture</string>
     <string name="appeller">Appeller</string>
+    <string name="menu_localisation">menu_localisation</string>
+    <string name="menu_examen">menu_examen</string>
+    <string name="menu_Acceuil">menu_Acceuil</string>
+    <string name="menu_cours">menu_cours</string>
+    <string name="les_cours">Cours</string>
+    <string name="examen">Examen</string>
 </resources>
