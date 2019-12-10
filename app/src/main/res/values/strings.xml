@@ -29,4 +29,8 @@
     <string name="menu_cours">menu_cours</string>
     <string name="les_cours">Cours</string>
     <string name="examen">Examen</string>
+    <string name="Email">Email</string>
+    <string name="Password">MotPass</string>
+    <string name="ConfurmPassword">Re Motpass</string>
+    <string name="SignUp">Sign Up</string>
 </resources>

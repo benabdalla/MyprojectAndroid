@@ -30,4 +30,8 @@
     <string name="menu_cours">menu_cours</string>
     <string name="les_cours">Courses</string>
     <string name="examen">Examan</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="ConfurmPassword">Re Password</string>
+    <string name="SignUp">Sign Up</string>
 </resources>
