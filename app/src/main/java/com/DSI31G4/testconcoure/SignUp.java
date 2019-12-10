@@ -1,8 +1,5 @@
 package com.DSI31G4.testconcoure;
 
-import androidx.annotation.NonNull;
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.text.TextUtils;
@@ -10,6 +7,9 @@ import android.util.Patterns;
 import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
 
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -29,14 +29,14 @@ public class SignUp extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_sign_up);
 
-        userEmail = findViewById(R.id.signInEmail);
-        passWord1 = findViewById(R.id.signInPassword1);
-        passWord2 = findViewById(R.id.signInPassword2);
+        userEmail = findViewById(R.id.signUpEmail);
+        passWord1 = findViewById(R.id.signUpPassword1);
+        passWord2 = findViewById(R.id.signUpPassword2);
 
 
         mAuth = FirebaseAuth.getInstance();
 
-        findViewById(R.id.signInButton).setOnClickListener(new View.OnClickListener() {
+        findViewById(R.id.signUpButton).setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 String email = userEmail.getText().toString();

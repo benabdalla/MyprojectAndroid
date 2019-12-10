@@ -34,4 +34,5 @@
     <string name="Password">Password</string>
     <string name="ConfurmPassword">Re Password</string>
     <string name="SignUp">Sign Up</string>
+    <string name="SignIn">Login</string>>
 </resources>
