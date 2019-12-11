@@ -34,4 +34,85 @@
     <string name="ConfurmPassword">Re Motpass</string>
     <string name="SignUp">Sign Up</string>
     <string name="SignIn">Login</string>
+
+    //questions sport
+    <string name="qs1">Quand et où ont eu lieu les premiers Jeux Olympiques modernes?</string>
+    <string name="qs2">Que signifie le mot kata?</string>
+    <string name="qs3">Qui est le premier Arabe à se qualifier pour la finale de la Coupe du Monde de la FIFA? </string>
+    <string name="qs4">Qui a remporté le deuxième championnat du Golfe du Golfe?</string>
+    <string name="qs5">Quelle est la taille du terrain de basket olympique?</string>
+    <string name="qs6">Quand et où a-t-il volé la Coupe du Monde de la FIFA pour la première fois?</string>
+    <string name="qs7">Quelles sont les mesures de la surface du terrain de jeu en tennis de table?</string>
+    <string name="qs8">Où est située la Fédération arabe des échecs?</string>
+    <string name="qs9">Quelle est la distance entre la ligne des lancers francs et le but de handball?</string>
+
+    //reponses sport
+    <string name="rs1">Athènes 1896 AD.</string>
+    <string name="rs2">Les principaux exercices de karaté.</string>
+    <string name="rs3">Egypte 1934 AD.</string>
+    <string name="rs4">Koweït, différence de buts par rapport à l\'Arabie saoudite.</string>
+    <string name="rs5">28m x 25m.</string>
+    <string name="rs6">1966 CE en Angleterre</string>
+    <string name="rs7">274 cm x 152,5 cm.</string>
+    <string name="rs8">Tunisie.</string>
+    <string name="rs9">9 mètres.</string>
+
+    //categories
+    <string name="histoire">Histoire</string>
+    <string name="geographie">Géographie</string>
+
+
+    //questions culture
+    <string name="qc1">Qui peut avoir plus soif qu\'un chameau?</string>
+    <string name="qc2">Les plus longues guerres du monde se sont déroulées entre </string>
+    <string name="qc3">Quel est l\'animal le plus lourd du monde? </string>
+    <string name="qc4">Les Arabes appelaient l\'or un nom &#8230;?</string>
+    <string name="qc5">L\'éléphant sent l\'humain à une distance de combien de kilomètres?</string>
+    <string name="qc6">Le système de gouvernement au Japon est?</string>
+    <string name="qc7">Qui est la première fille à monter dans l\'espace?</string>
+    <string name="qc8">La première bataille navale islamique, c\'est ça?</string>
+    <string name="qc9">La première maison construite sur Terre est?</string>
+    <string name="qc10">Le premier monument de montagne sur terre est une montagne</string>
+
+    //reponses culture
+    <string name="rc1">La girafe.</string>
+    <string name="rc2">France et Bretagne</string>
+    <string name="rc3">La baleine bleue.</string>
+    <string name="rc4">Jaune résonnant.</string>
+    <string name="rc5">Un demi-kilomètre.</string>
+    <string name="rc6">Impérial.</string>
+    <string name="rc7">Svetlana Savinskaya.</string>
+    <string name="rc8">La bataille des mâts.</string>
+    <string name="rc9">La Sainte Kaaba.</string>
+    <string name="rc10">Jabal Abi Qabis.</string>
+
+    //questions histoire
+    <string name="qh1">Quelle est la bataille qui a eu lieu en 1571 et qui a vu la fin de la supériorité maritime ottomane en Méditerranée?</string>
+    <string name="qh2">Quelle est la personne qui a évincé Nur ad-Din Aybak de la domination égyptienne et est devenu le sultan du pays à sa place? Et quand est-ce arrivé?</string>
+    <string name="qh3">Qui est le commandant omeyyade qui a refusé de combattre l\imam Ali bin Abi Talib, que Dieu soit satisfait de lui, dans la bataille de Sefin?</string>
+    <string name="qh4">Qui est le sultan ottoman qui était connu sous le nom de sultan Soliman le Magnifique ou Suleiman le Grand?</string>
+    <string name="qh5">Qui a conduit les musulmans à ouvrir la ville de Homs après l\'avoir assiégée avec un siège sévère jusqu\'à ce que la ville soit forcée de rechercher la conciliation et que les musulmans aient écrit à ses habitants un livre en sécurité pour eux et leur argent?</string>
+
+    //reponses histoire
+    <string name="rh1">La bataille de Lépante.</string>
+    <string name="rh2">Saif Al-Din Katz le 1er janvier 1259 après J.-C.</string>
+    <string name="rh3">Musa bin Naseer.</string>
+    <string name="rh4">Salomon le premier bin Sulayem le premier.</string>
+    <string name="rh5">Le grand compagnon Abu Ubaidah ibn al-Jarrah en 636 après JC.</string>
+
+    //questions geographie
+    <string name="qg1">Quelle est la taille du monde arabe tout entier?</string>
+    <string name="qg2">Quel est le plus grand pays arabo-asiatique de l\'espace?</string>
+    <string name="qg3">Quels sont les plus petits pays arabes africains en termes de superficie?</string>
+    <string name="qg4">Quel est le plus grand pays du Levant en termes de superficie?</string>
+    <string name="qg5">Quel est le fleuve le plus court du monde?</string>
+    <string name="qg6">Quel est le plus long fleuve du monde? </string>
+
+    //reponses geographie
+    <string name="rg1">La superficie du monde arabe est d\'environ 14 millions de kilomètres carrés.</string>
+    <string name="rg2">Le plus grand pays arabo-asiatique en termes de superficie est l\'Arabie saoudite.</string>
+    <string name="rg3">Le plus petit pays arabo-africain en termes de superficie est l\'État de Djibouti</string>
+    <string name="rg4">Le plus grand pays levantin en termes de superficie est la République syrienne.</string>
+    <string name="rg5">La rivière De en Amérique du Nord a une longueur de 134 km</string>
+    <string name="rg6">Le Nil en Afrique a une longueur de 6695 km</string>
 </resources>

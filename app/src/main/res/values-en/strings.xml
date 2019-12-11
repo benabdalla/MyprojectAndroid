@@ -19,10 +19,8 @@
     <string name="information">Information</string>
     <string name="text">  The application discover the essential information for the national competition</string>
     <string name="connect">connected</string>
-    <string name="sport">sport</string>
     <string name="history">History</string>
     <string name="Geographically">Geographically</string>
-    <string name="culture">culture</string>
     <string name="appeller">Appely</string>
     <string name="menu_localisation">menu_location</string>
     <string name="menu_examen">menu_examan</string>
@@ -34,5 +32,89 @@
     <string name="Password">Password</string>
     <string name="ConfurmPassword">Re Password</string>
     <string name="SignUp">Sign Up</string>
-    <string name="SignIn">Login</string>>
+    <string name="SignIn">Login</string>
+
+    //questions sport
+    <string name="qs1">When and where did the first modern Olympic Games take place?</string>
+    <string name="qs2">What does the word kata mean?</string>
+    <string name="qs3">Who is the first Arab to qualify for the FIFA World Cup finals?</string>
+    <string name="qs4">Who won the second Gulf Gulf Championship?</string>
+    <string name="qs5">What is the size of the Olympic basketball court?</string>
+    <string name="qs6">When and where did he steal the FIFA World Cup for the first time? </string>
+    <string name="qs7">What are the measurements of the surface of the playing field in table tennis?</string>
+    <string name="qs8">Where is the Arab Chess Federation located?</string>
+    <string name="qs9">What is the distance between the free throw line and the goal of handball? </string>
+
+    //reponses sport
+    <string name="rs1">Athens 1896 AD.</string>
+    <string name="rs2">The main karate exercises.</string>
+    <string name="rs3">Egypt 1934 AD</string>
+    <string name="rs4">Kuwait, goal difference from Saudi Arabia.</string>
+    <string name="rs5">Think: 28m x 25m.</string>
+    <string name="rs6">1966 CE in England.</string>
+    <string name="rs7">274 cm x 152.5 cm. </string>
+    <string name="rs8">Tunisia. </string>
+    <string name="rs9">9 meters.</string>
+
+
+    //categories
+    <string name="sport">Sport</string>
+    <string name="culture">Culture</string>
+    <string name="histoire">Histoire</string>
+    <string name="geographie">Géographie</string>
+
+    //questions culture
+    <string name="qc1">Who can be thirsty more than a camel?</string>
+    <string name="qc2">The longest wars in the world took place between:</string>
+    <string name="qc3">Which is the heaviest animal in the world?</string>
+    <string name="qc4">he Arabs called gold a name &#8230;?</string>
+    <string name="qc5">The elephant feels human at a distance of how many kilometers?</string>
+    <string name="qc6">The system of government in Japan is?</string>
+    <string name="qc7">Who is the first girl to climb into space?</string>
+    <string name="qc8">The first Islamic naval battle, that\'s it?</string>
+    <string name="qc9">The first house built on Earth is?</string>
+    <string name="qc10">The first mountain monument on earth is a mountain</string>
+
+    //reponses culture
+    <string name="rc1">The GIRAFE.</string>
+    <string name="rc2">France and Brittany</string>
+    <string name="rc3">The blue whale.</string>
+    <string name="rc4">Resonant yellow.</string>
+    <string name="rc5">Half a kilometer.</string>
+    <string name="rc6">Imperial.</string>
+    <string name="rc7">Svetlana Savinskaya.</string>
+    <string name="rc8">The battle of the masts.</string>
+    <string name="rc9">The holy Kaaba.</string>
+    <string name="rc10">Jabal Abi Qabis.</string>
+
+    //questions histoire
+    <string name="qh1">What is the battle that took place in 1571 and saw the end of the Ottoman maritime superiority in the Mediterranean?</string>
+    <string name="qh2">Who was the person who ousted Nur ad-Din Aybak from Egyptian rule and became the sultan of the country in his place? And when did this happen?</string>
+    <string name="qh3">Who is the Umayyad commander who refused to fight Imam Ali bin Abi Talib, may God be pleased with him, in the battle of Sefin?</string>
+    <string name="qh4">Who is the Ottoman Sultan who was known as Sultan Suleiman the Magnificent or Suleiman the Great?</string>
+    <string name="qh5">Who led the Muslims to open the city of Homs after besieging it with a siege until the city was forced to seek conciliation and that the Muslims wrote to its inhabitants a book safe for them and their money?</string>
+
+    //reponses histoire
+    <string name="rh1">The battle of Lepanto.</string>
+    <string name="rh2">Saif Al-Din Katz on January 1st, 1259 AD </string>
+    <string name="rh3">Musa bin Naseer. </string>
+    <string name="rh4">Solomon the first bin Sulayem first. </string>
+    <string name="rh5">The great companion Abu Ubaidah ibn al-Jarrah in 636 AD.</string>
+
+
+    //questions geographie
+    <string name="qg1">What is the size of the entire Arab world? </string>
+    <string name="qg2">What is the largest Arab-Asian country in space? </string>
+    <string name="qg3">Which are the smallest Arab African countries in terms of area?</string>
+    <string name="qg4">What is the largest country in the Levant in terms of area? </string>
+    <string name="qg5">What is the shortest river in the world?</string>
+    <string name="qg6">What is the longest river in the world?</string>
+
+    //reponses geographie
+    <string name="rg1">The area of the Arab world is about 14 million square kilometers. </string>
+    <string name="rg2">The largest Arab-Asian country in terms of area is Saudi Arabia. </string>
+    <string name="rg3">The smallest Arab-African country in terms of area is the State of Djibouti. </string>
+    <string name="rg4">The largest Levantine country in terms of area is the Syrian Republic.</string>
+    <string name="rg5">The River De in North America at a length of 134 km</string>
+    <string name="rg6">The Nile in Africa with a length of 6695 km</string>
 </resources>
