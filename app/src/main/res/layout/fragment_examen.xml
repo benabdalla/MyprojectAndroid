@@ -5,51 +5,9 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/texte_examen"
+    <ListView
+        android:id="@+id/listview_examen"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:textStyle="bold"
-        android:textAlignment="center"
-        android:textSize="40sp"
-        android:text="@string/examen"/>
-
-    <LinearLayout
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:orientation="vertical"
-        android:gravity="center" >
-
-
-            <ImageButton
-                android:id="@+id/button1"
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:src="@drawable/sport"
-                android:layout_marginBottom="10dp"/>
-
-            <ImageButton
-                android:id="@+id/button2"
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:src="@drawable/geog"
-                android:layout_marginBottom="10dp"/>
-
-
-
-            <ImageButton
-                android:id="@+id/button3"
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:src="@drawable/histoir"
-                android:layout_marginBottom="10dp"/>
-
-            <ImageButton
-                android:id="@+id/button4"
-                android:layout_width="235dp"
-                android:layout_height="125dp"
-                android:src="@drawable/culture"/>
-        </LinearLayout>
-
+        android:layout_height="match_parent" />
 
 </LinearLayout>
